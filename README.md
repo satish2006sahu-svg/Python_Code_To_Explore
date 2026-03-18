@@ -14,4 +14,4 @@ Python: Code_To_Explore – 60 Days Challenge
 - Day 3: Challenge Title: [Student-Performance-Analyzer](https://github.com/satish2006sahu-svg/Student-Performance-Analyzer)
 - Day 4: Challenge Title: [Cyber-Activity-Risk-Analyzer](https://github.com/satish2006sahu-svg/Cyber-Activity-Risk-Analyzer/blob/main/DAY-4%20Challenge.py)
 - Day 5: Challenge Title: [Emergency-Resource-Dispatch-Analyzer](https://github.com/satish2006sahu-svg/Emergency-Resource-Dispatch-Analyzer/blob/main/DAY-5%20Challenge.py)
-- Day 6: Challenge Title: [Smart Transaction Risk Detector](https://github.com/satish2006sahu-svg/Student-Performance-Analyzer)
+- Day 6: Challenge Title: [Smart Transaction Risk Detector](https://github.com/satish2006sahu-svg/Python_Code_To_Explore/blob/main/Smart%20Transaction%20Risk%20Detector.py)
